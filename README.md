@@ -1,20 +1,14 @@
+# ¡Hola a todos!
 
-<h1>¡Hola a todos!</h1>
-<h2>¡Bienvenidos a mi perfil de GitHub!</h2>
+## ¡Bienvenidos a mi perfil de GitHub!
 
-<p>Hola, soy Juan Antonio Iglesias 👋</p>
-<p>Soy un entusiasta de la programación con enfoque proactivo y pasión por el desarrollo de software. Mi viaje comenzó con Java ☕ y me especializo en Spring 🚀.</p>
-    
- <p>Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de Spring Framework.</p>
+Hola, soy Juan Antonio 👋  
+Soy un entusiasta de la programación con enfoque proactivo y pasión por el desarrollo de software. Mi viaje comenzó con **Java** ☕ y me especializo en **Spring** 🚀.
 
- <p>No lo dudes y contacta conmigo</p>
+Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de Spring Framework.
 
+[![LinkedIn Badge](https://img.shields.io/badge/-Juan%20Antonio%20Iglesias-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiglf/)
+[![Gmail Badge](https://img.shields.io/badge/-juan.iglesiasfuentes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:juan.iglesiasfuentes@gmail.com)
 
-        <a href="https://www.linkedin.com/in/jiglf/" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-Juan Antonio Iglesias-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-        </a>
-        <a href="mailto:juan.iglesiasfuentes@gmail.com" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-juan.iglesiasfuentes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
-        </a>
         
 
