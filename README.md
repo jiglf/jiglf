@@ -1,16 +1,28 @@
-## Hi there 👋
+ <style>
+    h1,h2,p {
+        font-family: Arial, sans-serif;
+        color: #333;
+        text-align: center;
+    }
 
-<!--
-**jiglf/jiglf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</style> 
 
-Here are some ideas to get you started:
+<h1>¡Hola a todos!</h1>
+<h2>¡Bienvenidos a mi perfil de GitHub!</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Hola, soy Juan Antonio Iglesias 👋</p>
+<p>Soy un entusiasta de la programación con enfoque proactivo y pasión por el desarrollo de software. Mi viaje comenzó con Java ☕ y me especializo en Spring 🚀.</p>
+    
+ <p>Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de Spring Framework.</p>
+
+ <p>No lo dudes y contacta conmigo</p>
+ <div>
+
+        <a href="https://www.linkedin.com/in/jiglf/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/-Juan Antonio Iglesias-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+        </a>
+        <a href="mailto:juan.iglesiasfuentes@gmail.com" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/-juan.iglesiasfuentes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+        </a>
+        
+</div>
