@@ -1,11 +1,3 @@
- <style>
-    h1,h2,p {
-        font-family: Arial, sans-serif;
-        color: #333;
-        text-align: center;
-    }
-
-</style> 
 
 <h1>¡Hola a todos!</h1>
 <h2>¡Bienvenidos a mi perfil de GitHub!</h2>
