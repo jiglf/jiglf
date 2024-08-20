@@ -12,8 +12,6 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
 [![Gmail Badge](https://img.shields.io/badge/-juan.iglesiasfuentes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:juan.iglesiasfuentes@gmail.com)
 
 
-#### Mis Estadisticas
-[![Hua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiglf&show_icons=true&theme=dark)](https://github.com/jiglf/github-readme-stats)
 
 
         
