@@ -10,6 +10,7 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
 # Mis repositorios
 - [Mis proyectos con Java SE 17](https://github.com/jiglf/Java-SE)
    - [BigBangTheory](https://github.com/jiglf/Java-SE/tree/main/BigBangTheory)
+   - [Loterias](https://github.com/jiglf/Java-SE/tree/main/Loterias)
 - [Mi proyecto final Java SE](https://github.com/jiglf/ProyectoFinalJava)
 
 ### ¡No lo dudes contacta conmigo!
