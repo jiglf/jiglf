@@ -3,7 +3,7 @@
 ## ¡Bienvenidos a mi perfil de GitHub!
 
 Me presento soy Juan Antonio 👋  
-Entusiasta de la programación con enfoque proactivo y pasión por el desarrollo de software. Mi viaje comenzó con **Java** ☕ y me estoy especializando en **Spring Boot ** 🚀.
+Entusiasta de la programación con enfoque proactivo y pasión por el desarrollo de software. Mi viaje comenzó con **Java** ☕ y me estoy especializando en **Spring Boot** 🚀.
 
 Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de Spring Boot.
 
