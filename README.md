@@ -8,7 +8,7 @@ Soy un entusiasta de la programación con enfoque proactivo y pasión por el des
 Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de Spring Framework.
 
 # Mis repositorios
-- Mis proyectos con Java SE 17
+- [Mis proyectos con Java SE 17](https://github.com/jiglf/Java-SE)
    - [BigBangTheory](https://github.com/jiglf/Java-SE/tree/main/BigBangTheory)
 - [Mi proyecto final Java SE](https://github.com/jiglf/ProyectoFinalJava)
 
