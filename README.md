@@ -12,6 +12,7 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
    - [Dias hasta tu cumpleaños](https://github.com/jiglf/Java-SE/tree/main/DiasCumple)
    - [Piedra, papel, tijera, lagarto, Spock](https://github.com/jiglf/Java-SE/tree/main/BigBangTheory)
    - [Simulador de loterias](https://github.com/jiglf/Java-SE/tree/main/Loterias)
+   - [Siete y media](https://github.com/jiglf/Java-SE/tree/main/SieteMedia)
    - [Calculadora en Swing](https://github.com/jiglf/Java-SE/tree/main/CalculadoraSwing)
 - [Mi proyecto final Java SE](https://github.com/jiglf/ProyectoFinalJava)
 
