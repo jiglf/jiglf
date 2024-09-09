@@ -17,8 +17,9 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
    - [Calculadora en Swing](https://github.com/jiglf/Java-SE/tree/main/CalculadoraSwing)
 - [Mi proyecto final Java SE. Basado en la guerra del señor de los anillos](https://github.com/jiglf/ProyectoFinalJava)
 
+
+[![Hua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiglf&show_icons=true&theme=dark&hide=prs,issues,stars,contribs)](https://github.com/jiglf/github-readme-stats)
   
-[![Hua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiglf&show_icons=true&theme=dark)](https://github.com/jiglf/github-readme-stats)
 ### ¡No lo dudes contacta conmigo!
 [![LinkedIn Badge](https://img.shields.io/badge/-Juan%20Antonio%20Iglesias-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiglf/)
 [![Gmail Badge](https://img.shields.io/badge/-juan.iglesiasfuentes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:juan.iglesiasfuentes@gmail.com)
