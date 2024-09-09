@@ -10,7 +10,7 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
 # Mis repositorios
 - [Mis proyectos con Java SE 17](https://github.com/jiglf/Java-SE)
    - [Dias hasta tu cumpleaños](https://github.com/jiglf/Java-SE/tree/main/DiasCumple)
-   - [Tabla de multiplicar](https://github.com/jiglf/Java-SE/tree/main/Multiplicar)
+   - [Multiplicación](https://github.com/jiglf/Java-SE/tree/main/Multiplicar)
    - [Piedra, papel, tijera, lagarto, Spock](https://github.com/jiglf/Java-SE/tree/main/BigBangTheory)
    - [Simulador de loterias](https://github.com/jiglf/Java-SE/tree/main/Loterias)
    - [Ahorcado](https://github.com/jiglf/Java-SE/tree/main/Ahorcado)
