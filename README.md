@@ -8,16 +8,16 @@ Entusiasta de la programación con enfoque proactivo y pasión por el desarrollo
 Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de Spring Boot.
 
 # Mis repositorios
-- ##[Mis proyectos con Java SE 17](https://github.com/jiglf/Java-SE)
+- [Mis proyectos con Java SE 17](https://github.com/jiglf/Java-SE)
    - [Cuenta Vocales](https://github.com/jiglf/Java-SE/tree/main/ContadorVocales)
    - [Dias hasta tu cumpleaños](https://github.com/jiglf/Java-SE/tree/main/DiasCumple)
    - [Multiplicación](https://github.com/jiglf/Java-SE/tree/main/Multiplicar)
-   - #[Piedra, papel, tijera, lagarto, Spock](https://github.com/jiglf/Java-SE/tree/main/BigBangTheory)
-   - #[Simulador de loterias](https://github.com/jiglf/Java-SE/tree/main/Loterias)
-   - #[Ahorcado](https://github.com/jiglf/Java-SE/tree/main/Ahorcado)
+   - [Piedra, papel, tijera, lagarto, Spock](https://github.com/jiglf/Java-SE/tree/main/BigBangTheory)
+   - [Simulador de loterias](https://github.com/jiglf/Java-SE/tree/main/Loterias)
+   - [Ahorcado](https://github.com/jiglf/Java-SE/tree/main/Ahorcado)
    - [Siete y media](https://github.com/jiglf/Java-SE/tree/main/SieteMedia)
-   - #[Calculadora en Swing](https://github.com/jiglf/Java-SE/tree/main/CalculadoraSwing)
-- ##[Mi proyecto final Java SE. Basado en la guerra del señor de los anillos](https://github.com/jiglf/ProyectoFinalJava)
+   - [Calculadora en Swing](https://github.com/jiglf/Java-SE/tree/main/CalculadoraSwing)
+- [Mi proyecto final Java SE. Basado en la guerra del señor de los anillos](https://github.com/jiglf/ProyectoFinalJava)
 
 
 [![Estadisticas](https://github-readme-stats.vercel.app/api?username=jiglf&show_icons=true&theme=dark)](https://github.com/jiglf/github-readme-stats)
