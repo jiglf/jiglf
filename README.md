@@ -12,6 +12,7 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
    - [Cuenta Vocales](https://github.com/jiglf/Java-SE/tree/main/ContadorVocales)
    - [Dias hasta tu cumpleaños](https://github.com/jiglf/Java-SE/tree/main/DiasCumple)
    - [Multiplicación](https://github.com/jiglf/Java-SE/tree/main/Multiplicar)
+   - [Colecciones](https://github.com/jiglf/Java-SE/tree/main/Colecciones)
    - [Piedra, papel, tijera, lagarto, Spock](https://github.com/jiglf/Java-SE/tree/main/BigBangTheory)
    - [Simulador de loterias](https://github.com/jiglf/Java-SE/tree/main/Loterias)
    - [Ahorcado](https://github.com/jiglf/Java-SE/tree/main/Ahorcado)
