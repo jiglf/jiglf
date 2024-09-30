@@ -15,6 +15,7 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
    - [Multiplicación](https://github.com/jiglf/Java-SE/tree/main/Multiplicar)
    - [Colecciones](https://github.com/jiglf/Java-SE/tree/main/Colecciones)
    - [Piedra, papel, tijera, lagarto, Spock](https://github.com/jiglf/Java-SE/tree/main/BigBangTheory)
+   - [Teoria de la rueda](https://github.com/jiglf/Java-SE/tree/main/TeoriaRueda)
    - [Simulador de loterias](https://github.com/jiglf/Java-SE/tree/main/Loterias)
    - [Ahorcado](https://github.com/jiglf/Java-SE/tree/main/Ahorcado)
    - [Siete y media](https://github.com/jiglf/Java-SE/tree/main/SieteMedia)
