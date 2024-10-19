@@ -14,6 +14,7 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
    - [Dias hasta tu cumpleaños](https://github.com/jiglf/Java-SE/tree/main/DiasCumple)
    - [Multiplicación](https://github.com/jiglf/Java-SE/tree/main/Multiplicar)
    - [Colecciones](https://github.com/jiglf/Java-SE/tree/main/Colecciones)
+   - [Compara metodos de ordenamiento](https://github.com/jiglf/Java-SE/tree/main/Ordenamientos)
    - [Piedra, papel, tijera, lagarto, Spock](https://github.com/jiglf/Java-SE/tree/main/BigBangTheory)
    - [Teoria de la rueda](https://github.com/jiglf/Java-SE/tree/main/TeoriaRueda)
    - [Simulador de loterias](https://github.com/jiglf/Java-SE/tree/main/Loterias)
