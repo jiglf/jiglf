@@ -21,6 +21,7 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
    - [Ahorcado](https://github.com/jiglf/Java-SE/tree/main/Ahorcado)
    - [Siete y media](https://github.com/jiglf/Java-SE/tree/main/SieteMedia)
    - [Calculadora en Swing](https://github.com/jiglf/Java-SE/tree/main/CalculadoraSwing)
+   - [Crear QR](https://github.com/jiglf/Java-SE/tree/main/CrearQR)
 - [Mi proyecto final Java SE. Basado en la guerra del señor de los anillos](https://github.com/jiglf/ProyectoFinalJava)
 
 
