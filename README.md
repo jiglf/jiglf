@@ -12,6 +12,7 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
    - [Calculo peso y % grasa](https://github.com/jiglf/Java-SE/tree/main/PesoGrasa)   
    - [Cuenta Vocales](https://github.com/jiglf/Java-SE/tree/main/ContadorVocales)
    - [Dias hasta tu cumpleaños](https://github.com/jiglf/Java-SE/tree/main/DiasCumple)
+   - [Clase Random vs metodo Math.random()](https://github.com/jiglf/Java-SE/tree/main/Repite)
    - [Multiplicación](https://github.com/jiglf/Java-SE/tree/main/Multiplicar)
    - [Colecciones](https://github.com/jiglf/Java-SE/tree/main/Colecciones)
    - [Compara metodos de ordenamiento](https://github.com/jiglf/Java-SE/tree/main/Ordenamientos)
