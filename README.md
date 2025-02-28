@@ -27,6 +27,7 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
    - [Crear QR](https://github.com/jiglf/Java-SE/tree/main/CrearQR)
 - [Mi proyecto final Java SE. Basado en la guerra del señor de los anillos](https://github.com/jiglf/ProyectoFinalJava)
 - [Mis proyectos con Java Spring](https://github.com/jiglf/Java-Spring)
+   - [El proyecto final de Java. Representado en una aplicación de Spring](https://github.com/jiglf/Java-Spring/tree/main/La%20guerra%20del%20anillo/main)   
 
 
 
