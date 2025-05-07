@@ -9,7 +9,8 @@ Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de 
 
 # Mis repositorios
 - [Mis proyectos con Java SE 17](https://github.com/jiglf/Java-SE)
-   - [Calculo peso y % grasa](https://github.com/jiglf/Java-SE/tree/main/PesoGrasa)   
+   - [Calculo peso y % grasa](https://github.com/jiglf/Java-SE/tree/main/PesoGrasa)
+   - [Gestor de tareas por consola](https://github.com/jiglf/Java-SE/tree/main/GestorTareas) 
    - [Cuenta Vocales](https://github.com/jiglf/Java-SE/tree/main/ContadorVocales)
    - [Dias hasta tu cumpleaños](https://github.com/jiglf/Java-SE/tree/main/DiasCumple)
    - [Clase Random vs metodo Math.random()](https://github.com/jiglf/Java-SE/tree/main/Repite)
