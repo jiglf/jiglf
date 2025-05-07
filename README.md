@@ -8,7 +8,7 @@ Entusiasta de la programación con enfoque proactivo y pasión por el desarrollo
 Aquí podrás encontrar todo lo que he ido aprendiendo tanto de Java SE como de Spring Boot.
 
 # Mis repositorios
-- [Mis proyectos con Java SE 17](https://github.com/jiglf/Java-SE)
+- [Mis proyectos con Java SE](https://github.com/jiglf/Java-SE)
    - [Calculo peso y % grasa](https://github.com/jiglf/Java-SE/tree/main/PesoGrasa)
    - [Gestor de tareas por consola](https://github.com/jiglf/Java-SE/tree/main/GestorTareas) 
    - [Cuenta Vocales](https://github.com/jiglf/Java-SE/tree/main/ContadorVocales)
